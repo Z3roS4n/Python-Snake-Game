@@ -1,2 +1,2 @@
 # Python-Snake-Game
- A Snake Game done in Python
+A Snake Game made in Python using Turtle.
